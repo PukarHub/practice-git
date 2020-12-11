@@ -6,3 +6,4 @@ git branch
 dummy line, dont git add
 git branch <branch name>
 git checkout <branch name> goes inside new branch
+hello my nigga
