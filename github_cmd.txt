@@ -7,3 +7,4 @@ dummy line, dont git add
 git branch <branch name>
 git checkout <branch name> goes inside new branch
 This is ram
+Yo! I am j cole 
